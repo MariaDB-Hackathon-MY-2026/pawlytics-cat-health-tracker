@@ -1,0 +1,39 @@
+# Environment variables
+.env
+*.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+temp_uploads/
+*.tmp
+
+# Streamlit cache
+.streamlit/
+
+# Distribution
+*.egg-info/
+dist/
+build/
